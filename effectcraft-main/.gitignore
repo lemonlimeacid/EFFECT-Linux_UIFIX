@@ -1,0 +1,10 @@
+
+# Rust build files
+target/
+
+# Temporary files
+*.tmp
+*~
+
+# Linux desktop temporary files
+.Trash-*
